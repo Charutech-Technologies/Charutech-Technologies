@@ -129,7 +129,7 @@ Nairobi-based IT solutions powerhouse driving innovation and excellence. We empo
 
 <h4>
   <img align="left" width="25px" alt="twitter" src="https://github.com/user-attachments/assets/d00f9b72-2a58-48e6-8021-4bcf049b833c" />
-  Twitter: <a href="https://twitter.com/CharuTechKE" target="_blank">@CharuTechKE</a>
+  Twitter: <a href="https://x.com/Charutech_KE" target="_blank">@Charutech_KE</a>
 </h4>
 
 <h4>
@@ -144,7 +144,7 @@ Nairobi-based IT solutions powerhouse driving innovation and excellence. We empo
 
 <h4>
   <img align="left" width="25px" alt="IG" src="https://github.com/user-attachments/assets/503c48d2-4ac6-4b20-9d9a-35b330b72aaa" />
-  Instagram: <a href="https://instagram.com/CharuTechKE" target="_blank">@CharuTechKE</a>
+  Instagram: <a href="https://instagram.com/CharuTechKE" target="_blank">@Charutech_KE</a>
 </h4>
 
 <h4>
